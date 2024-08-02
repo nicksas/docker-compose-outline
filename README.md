@@ -20,7 +20,7 @@ This installation script (`install_server.sh`) is customized to generate a Docke
 ## Installation
 
 ``` bash 
-sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/viapip/docker-compose-outline/master/install.sh)"
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/nicksas/docker-compose-outline/master/install.sh)"
 ```
 
 You can customize the installation with environment variables or by editing the script directly. Some of the configurable options include:
